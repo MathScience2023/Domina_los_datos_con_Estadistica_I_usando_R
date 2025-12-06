@@ -1,2 +1,2 @@
-# Domina_la_Estadistica_Descriptiva_con_Excel
-Repositorio para tener a la mano los documentos como notebooks, notas, tareas, informes, etc. del curso de Domina los Datos con Estadística Elemental usando R!
+# Domina_los_datos_con_Estadistica_I_usando_R
+Repositorio que contiene links a las notebooks del temario, tareas, links a videos, ejercicio, entre otros.
